@@ -1,0 +1,597 @@
+{
+    "1350752726484779048": {
+        "messages_sent": 107,
+        "voice_time": 1326.0265933473906,
+        "last_connect_time": 1743738355.9984977
+    },
+    "1279774323757944852": {
+        "messages_sent": 70,
+        "voice_time": 1484.7261991699536,
+        "last_connect_time": 1743743314.9447181
+    },
+    "1055468174549725215": {
+        "messages_sent": 8,
+        "voice_time": 609.9375613570214,
+        "last_connect_time": null
+    },
+    "813637968706535454": {
+        "messages_sent": 218,
+        "voice_time": 1227.7094368656476,
+        "last_connect_time": 1743756721.9697704
+    },
+    "891617775913672724": {
+        "messages_sent": 2,
+        "voice_time": 59.85907760063807,
+        "last_connect_time": null
+    },
+    "1035856246303117382": {
+        "messages_sent": 3,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1218509334426947636": {
+        "messages_sent": 52,
+        "voice_time": 420.1287250359853,
+        "last_connect_time": null
+    },
+    "1306241875354718288": {
+        "messages_sent": 52,
+        "voice_time": 150.6602277914683,
+        "last_connect_time": null
+    },
+    "1005655009226129509": {
+        "messages_sent": 5,
+        "voice_time": 56.68198227087657,
+        "last_connect_time": null
+    },
+    "1274250074750451755": {
+        "messages_sent": 11,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1225967110963073096": {
+        "messages_sent": 155,
+        "voice_time": 263.66547256708145,
+        "last_connect_time": 1743758904.5112925
+    },
+    "1203591620574974033": {
+        "messages_sent": 6,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1248871013291130896": {
+        "messages_sent": 117,
+        "voice_time": 0.7361024260520935,
+        "last_connect_time": null
+    },
+    "1314165859933098004": {
+        "messages_sent": 42,
+        "voice_time": 10.095321349302928,
+        "last_connect_time": null
+    },
+    "1270949856633946122": {
+        "messages_sent": 57,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1259479347476168844": {
+        "messages_sent": 18,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1350667733687210056": {
+        "messages_sent": 7,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1325418045723901952": {
+        "messages_sent": 175,
+        "voice_time": 9.869362799326579,
+        "last_connect_time": null
+    },
+    "1344288399242297468": {
+        "messages_sent": 63,
+        "voice_time": 3.4413846294085184,
+        "last_connect_time": null
+    },
+    "1050696316306595890": {
+        "messages_sent": 43,
+        "voice_time": 343.95763548215234,
+        "last_connect_time": null
+    },
+    "1048793626605531166": {
+        "messages_sent": 4,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1232260723657412628": {
+        "messages_sent": 146,
+        "voice_time": 226.92104093233746,
+        "last_connect_time": null
+    },
+    "1344271968731664415": {
+        "messages_sent": 0,
+        "voice_time": 26.632235527038574,
+        "last_connect_time": null
+    },
+    "1056758301955719268": {
+        "messages_sent": 34,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "549149489571823626": {
+        "messages_sent": 5,
+        "voice_time": 87.16399481693904,
+        "last_connect_time": null
+    },
+    "1235258234172997775": {
+        "messages_sent": 6,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1314526473226289236": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1350408193318195210": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "903827558829805659": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "947338774214488094": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "967721456609935370": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1071376059418824764": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1352230059561451523": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1324030915525083270": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1176107735356538930": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1024963522314117140": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1270719910049349635": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1229037949069430795": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1169971201175724163": {
+        "messages_sent": 1,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1350773801964798006": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1348323651824517143": {
+        "messages_sent": 11,
+        "voice_time": 13.829202651977539,
+        "last_connect_time": null
+    },
+    "1046325830739046452": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1284316246891958386": {
+        "messages_sent": 46,
+        "voice_time": 98.77243979374569,
+        "last_connect_time": null
+    },
+    "1341681992433012748": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1270136251252736107": {
+        "messages_sent": 1,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1291970797031784521": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1344618066067193857": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1176513605437489189": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1099509017497309205": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1243804422317015065": {
+        "messages_sent": 12,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1345619506105421944": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1268412493232078881": {
+        "messages_sent": 1,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1089535389901000754": {
+        "messages_sent": 0,
+        "voice_time": 0.5241365949312846,
+        "last_connect_time": null
+    },
+    "1224338158225719359": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1345025793620836382": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1328991229081423925": {
+        "messages_sent": 12,
+        "voice_time": 0.4906190911928813,
+        "last_connect_time": null
+    },
+    "1219612280396976208": {
+        "messages_sent": 163,
+        "voice_time": 65.63045256932577,
+        "last_connect_time": null
+    },
+    "951357575797043230": {
+        "messages_sent": 18,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1265301460724351041": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "967095296641343585": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1273962229120893022": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1109633172867653712": {
+        "messages_sent": 144,
+        "voice_time": 75.91378453175227,
+        "last_connect_time": null
+    },
+    "1248178518806888513": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1336374579177853019": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1095690237780443186": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1314524211653513277": {
+        "messages_sent": 1,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1296422609969479701": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1131550682160304138": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "948151961092501525": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1327890338689323070": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1350593831908802682": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1291357683558912001": {
+        "messages_sent": 4,
+        "voice_time": 1.8905091206232707,
+        "last_connect_time": null
+    },
+    "1335407362411987015": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1127037422329417899": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "979896033238716416": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "370624991315886083": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1283389906789470291": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1355182394113659103": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1011942341214478366": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1342116488664055869": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1314885709307314220": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1107215550280638584": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1237740289439961215": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1284116158902964228": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1345382051242704977": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1143663650528313405": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1350663049786298380": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1272496138389295145": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1231482280531333174": {
+        "messages_sent": 2,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "817285235468533772": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1344673653232631891": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1140691330977247263": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "958332237110214776": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1064125018553987114": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1136571261275865118": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1352284200535068702": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "750623279211085856": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1321302762264334367": {
+        "messages_sent": 2,
+        "voice_time": 34.75552521546682,
+        "last_connect_time": null
+    },
+    "1236156492965478472": {
+        "messages_sent": 13,
+        "voice_time": 11.072924959659577,
+        "last_connect_time": null
+    },
+    "1333361881133350912": {
+        "messages_sent": 5,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1309150347549478964": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1294530670219104278": {
+        "messages_sent": 1,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1336564708404105300": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1126433026134519859": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1170370564431548459": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1085904830813458433": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1347527524279914578": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1335424985438621737": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "778599066165575691": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1344661776993615954": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1239168316933800009": {
+        "messages_sent": 1,
+        "voice_time": 4.135630174477895,
+        "last_connect_time": null
+    },
+    "1349862654457413753": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1356616690422648883": {
+        "messages_sent": 1,
+        "voice_time": 0.0494839072227478,
+        "last_connect_time": null
+    },
+    "1273250036959936603": {
+        "messages_sent": 14,
+        "voice_time": 14.199558039506277,
+        "last_connect_time": null
+    },
+    "1356998960085991485": {
+        "messages_sent": 26,
+        "voice_time": 2.314284578959147,
+        "last_connect_time": null
+    },
+    "1125433473247740065": {
+        "messages_sent": 6,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1354990380805783613": {
+        "messages_sent": 1,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1235563284304756858": {
+        "messages_sent": 1,
+        "voice_time": 0,
+        "last_connect_time": null
+    },
+    "1208742273894846521": {
+        "messages_sent": 0,
+        "voice_time": 0,
+        "last_connect_time": null
+    }
+}
