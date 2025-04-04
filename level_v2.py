@@ -328,4 +328,4 @@ async def level(ctx):
         await ctx.send("データが記録されているユーザーがいません。")
 
 # ボットを実行
-bot.run("")
+bot.run("YOUR_BOT_TOKEN")
